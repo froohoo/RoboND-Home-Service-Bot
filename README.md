@@ -1,5 +1,5 @@
 
-![alt text][homeservice.png]
+![Robots](https://github.com/froohoo/RoboND-Home-Service-Bot/blob/master/homeservice.png)
 
 # RoboND-Home-Service-Bot
 Project 5 in Term 2 of Udacity Robotics Nanodegree
