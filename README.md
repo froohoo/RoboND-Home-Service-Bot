@@ -5,11 +5,16 @@ Project 5 in Term 2 of Udacity Robotics Nanodegree
 [Building World File](World/Building3.world)
 
 ## Shell Scripts
-[test_slam.sh](test_slam.sh)
+[test_slam.sh](ShellScripts/test_slam.sh)
+
 [wall_follower.sh](ShellScripts/wall_folloer.sh)
+
 [test_navigation.sh](ShellScripts/test_navigation.sh)
+
 [pick_objects.sh](ShellScripts/pick_objects.sh)
+
 [add_marker.sh](ShellScripts/add_marker.sh)
+
 [home_service.sh](ShellScripts/home_service.sh)
 
 
