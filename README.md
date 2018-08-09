@@ -18,19 +18,11 @@ Project 5 in Term 2 of Udacity Robotics Nanodegree
 [home_service.sh](ShellScripts/home_service.sh)
 
 
-
 ## Map Files
 [MyMap.pgm](Maps/myMap.pgm)
+
 [MyMap.yaml](Maps/myMap.yaml)
 
-
-
-[Goal 2 Supporting Image](Goal%202%20Proof.jpeg)
-
-
-## Project Folder
-
-[RoboND-DeepRL-Project](RoboND-DeepRL-Project)
 
 ## Supporting video
 
