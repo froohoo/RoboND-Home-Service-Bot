@@ -7,7 +7,7 @@ Project 5 in Term 2 of Udacity Robotics Nanodegree
 ## Shell Scripts
 [test_slam.sh](ShellScripts/test_slam.sh)
 
-[wall_follower.sh](ShellScripts/wall_folloer.sh)
+[wall_follower.sh](ShellScripts/wall_follower.sh)
 
 [test_navigation.sh](ShellScripts/test_navigation.sh)
 
