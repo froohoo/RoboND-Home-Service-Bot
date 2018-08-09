@@ -1,3 +1,6 @@
+
+![alt text][homeservice.png]
+
 # RoboND-Home-Service-Bot
 Project 5 in Term 2 of Udacity Robotics Nanodegree
 
