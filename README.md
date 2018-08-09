@@ -20,8 +20,8 @@ Project 5 in Term 2 of Udacity Robotics Nanodegree
 
 
 ## Map Files
-[MyMap.pgm](MyMap.pgm)
-[MyMap.yaml](MyMap.yaml)
+[MyMap.pgm](Maps/MyMap.pgm)
+[MyMap.yaml](Maps/MyMap.yaml)
 
 
 
