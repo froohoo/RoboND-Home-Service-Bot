@@ -2,7 +2,7 @@
 Project 5 in Term 2 of Udacity Robotics Nanodegree
 
 ## Gazebo Building File
-[Building World File}(Building3.world)
+[Building World File](Building3.world)
 
 ## Shell Scripts
 [test_slam.sh](test_slam.sh)
