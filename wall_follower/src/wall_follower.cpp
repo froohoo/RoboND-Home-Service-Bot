@@ -55,23 +55,23 @@ bool robot_move(const ROBOT_MOVEMENT move_type)
     else if (move_type == TURN_LEFT) {
         ROS_INFO("[ROBOT] I'm turning left! \n");
         motor_command.linear.x = 0.0;
-        motor_command.angular.z = 1.0; //was 1.0
+        motor_command.angular.z = 0.75; //was 1.0
     }
 
     else if (move_type == TURN_RIGHT) {
         ROS_INFO("[ROBOT] I'm turning right! \n");
         motor_command.linear.x = 0.0;
-        motor_command.angular.z = -1.0; //was -1.0
+        motor_command.angular.z = -0.75; //was -1.0
     }
     else if (move_type == GO_RIGHT) {
         ROS_INFO("[ROBOT] I'm goin right! \n");
         motor_command.linear.x = 0.20; //was 0.25
-        motor_command.angular.z = -0.30; // was -0.25
+        motor_command.angular.z = -0.20; // was -0.25
     }
     else if (move_type == GO_LEFT) {
         ROS_INFO("[ROBOT] I'm goin left! \n");
         motor_command.linear.x = 0.20; //was 0.25
-        motor_command.angular.z = 0.30; //was 0.25
+        motor_command.angular.z = 0.20; //was 0.25
     }
     else {
         ROS_INFO("[ROBOT_MOVE] Move type wrong! \n");
